@@ -1,4 +1,4 @@
-# escrow-frontend/.github/workflows/deploy.yml
+# soroban-milestone-escrow-ui/.github/workflows/deploy.yml
 #
 # Differs from the backend workflow because NEXT_PUBLIC_* values must be
 # passed as build args — they're inlined into the bundle, so the image is

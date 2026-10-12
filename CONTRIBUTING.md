@@ -1,4 +1,4 @@
-# Contributing to Milestone Escrow Frontend
+# Contributing to Soroban Milestone Escrow UI
 
 Thank you for your interest in contributing! This document outlines the process for making contributions.
 

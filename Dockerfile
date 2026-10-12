@@ -1,4 +1,4 @@
-# escrow-frontend/Dockerfile
+# soroban-milestone-escrow-ui/Dockerfile
 #
 # Requires output: "export" in next.config.ts (see DECISIONS.md).
 # If the export attempt fails, use Dockerfile.node instead — same build

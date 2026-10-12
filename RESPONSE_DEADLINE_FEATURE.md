@@ -180,12 +180,12 @@ Comprehensive test suite created in `__tests__/response-deadline-validation.test
 
 ## Files Modified
 
-- `escrow-frontend/app/create/page.tsx` - Core implementation
+- `soroban-milestone-escrow-ui/app/create/page.tsx` - Core implementation
 
 ## Files Created
 
-- `escrow-frontend/__tests__/response-deadline-validation.test.tsx` - Test suite
-- `escrow-frontend/RESPONSE_DEADLINE_FEATURE.md` - This documentation
+- `soroban-milestone-escrow-ui/__tests__/response-deadline-validation.test.tsx` - Test suite
+- `soroban-milestone-escrow-ui/RESPONSE_DEADLINE_FEATURE.md` - This documentation
 
 ## Design Decisions
 

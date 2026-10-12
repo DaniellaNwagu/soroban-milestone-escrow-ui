@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The create job form in the escrow frontend currently provides no field-level validation feedback. When a user submits the form with invalid input, errors surface only after an attempted backend call (or as a generic submission banner), with no indication of which field is wrong or why.
+The create job form in the Soroban Milestone Escrow UI currently provides no field-level validation feedback. When a user submits the form with invalid input, errors surface only after an attempted backend call (or as a generic submission banner), with no indication of which field is wrong or why.
 
 This feature adds inline field error indicators and a submission-level alert message so users receive immediate, descriptive visual feedback for each validation failure before — and when — they attempt to submit the form. The scope is limited to client-side validation of the five existing fields: Freelancer Address, Arbiter Address, Token Contract Address, Response Deadline, and Milestones. No form layout changes, no new runtime libraries, and no backend changes are in scope.
 

@@ -7,7 +7,7 @@ A fully functional, production-ready admin page that allows the contract admin t
 ## 📂 File Structure
 
 ```
-escrow-frontend/
+soroban-milestone-escrow-ui/
 ├── app/
 │   ├── admin/
 │   │   └── page.tsx                    # Main admin page component

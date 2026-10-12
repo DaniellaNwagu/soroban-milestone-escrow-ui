@@ -1,4 +1,4 @@
-# escrow-frontend/Dockerfile.node — FALLBACK ONLY
+# soroban-milestone-escrow-ui/Dockerfile.node — FALLBACK ONLY
 #
 # Use this if output: "export" turns out not to work (middleware present,
 # a server component doing dynamic work, or anything else that blocks
